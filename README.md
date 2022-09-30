@@ -32,7 +32,7 @@ Graduation project for ITI Embedded Systems Summer Training
         2- Conditioner : {1-TurnON , 2-TurnOff}
         3- TV : {1-TurnON , 2-TurnOff}
         4- Windows : {1-Open , 2-Close}
-        3- Kitchen Unit :
+        3- Kitchen Unit : 
         One choice is to wait for Microwave timer to finish and alert user by its finishing.
   -Each final choice ends with a coded instruction sent to Rooms Unit by SPI protocol.
 RoomsUnit:
